@@ -15,8 +15,8 @@ set INTERPRETER=-interpreter
 :: http://help.adobe.com/en_US/air/build/WSfffb011ac560372f-6fa6d7e0128cca93d31-8000.html
 
 ::set SCREEN_SIZE=NexusOne
-set SCREEN_SIZE=iPhoneRetina
-
+::set SCREEN_SIZE=iPhoneRetina
+set SCREEN_SIZE=400x760:400x760
 :desktop-run
 echo.
 echo Starting AIR Debug Launcher with screen size '%SCREEN_SIZE%'

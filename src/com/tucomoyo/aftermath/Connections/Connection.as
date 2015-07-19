@@ -26,7 +26,14 @@ package com.tucomoyo.aftermath.Connections
 	 */
 	public class Connection extends EventDispatcher 
 	{
-		Security.allowDomain("*");
+		
+		//Security.allowDomain("*");
+		try {
+			Security.allowDomain("*");
+		}catch (e) { 
+			
+		};
+		
 		public var loader:URLLoader = new URLLoader();
 		private var actionTable:Dictionary;
 		public var resources:GlobalResources;
