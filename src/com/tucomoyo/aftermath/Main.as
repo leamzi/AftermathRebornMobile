@@ -63,10 +63,10 @@ package com.tucomoyo.aftermath
 		{
 			removeEventListener(starling.events.Event.ADDED_TO_STAGE, init);
 			// entry point
-			status = new Stats();
-			status.scaleX = 3.0;
-			status.scaleY = 3.0;
-			addChild(status);
+			//status = new Stats();
+			//status.scaleX = 3.0;
+			//status.scaleY = 3.0;
+			//addChild(status);
 			
 		
 			
@@ -95,8 +95,8 @@ package com.tucomoyo.aftermath
 			(_st.root as Game).global_resources.tracker = tracker;
 			(_st.root as Game).global_resources.stageWidth = 760;
 			(_st.root as Game).global_resources.stageHeigth = 400;
-			//(_st.root as Game).scaleX = scalex/760;
-			//(_st.root as Game).scaleY = scaley/400;
+			(_st.root as Game).scaleX = scalex/400;
+			(_st.root as Game).scaleY = scaley/760;
 			//if((_st.root as Game).user_id == "-1")addChild(status);
 			(_st.root as Game).initializeGame();
 			_st.antiAliasing=0;
