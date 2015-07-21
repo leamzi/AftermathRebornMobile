@@ -43,10 +43,13 @@ package com.tucomoyo.aftermath
 		
 		public function Main():void 
 		{
-			stage.scaleMode = StageScaleMode.EXACT_FIT;
+			//stage.scaleMode = StageScaleMode.EXACT_FIT;
+			stage.scaleMode = StageScaleMode.NO_SCALE;
 			stage.align = StageAlign.TOP_LEFT;
 			stage.addEventListener(flash.events.Event.DEACTIVATE, deactivate);
+			//scalex = stage.fullScreenWidth; 
 			scalex = stage.fullScreenWidth; 
+			//scaley = stage.fullScreenHeight;
 			scaley = stage.fullScreenHeight;
 			// touch or gesture?
 			Multitouch.inputMode = MultitouchInputMode.TOUCH_POINT;
@@ -93,10 +96,13 @@ package com.tucomoyo.aftermath
 			(_st.root as Game).facebookId = facebookId;
 			(_st.root as Game).tutorialDone = Boolean(int(tutorialDone));
 			(_st.root as Game).global_resources.tracker = tracker;
-			(_st.root as Game).global_resources.stageWidth = 800;
+			//(_st.root as Game).global_resources.stageWidth = 800;
+			(_st.root as Game).global_resources.stageWidth = 760;
 			(_st.root as Game).global_resources.stageHeigth = 400;
-			(_st.root as Game).scaleX = scalex/800;
+			(_st.root as Game).scaleX = scalex/760;
+			//(_st.root as Game).scaleX = stage.fullScreenWidth;
 			(_st.root as Game).scaleY = scaley/400;
+			//(_st.root as Game).scaleY = stage.fullScreenHeight;
 			//if((_st.root as Game).user_id == "-1")addChild(status);
 			(_st.root as Game).initializeGame();
 			_st.antiAliasing=0;

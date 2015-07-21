@@ -5,7 +5,7 @@
     <movie outputType="Application" />
     <movie input="" />
     <movie path="bin\AftermathRebornM.swf" />
-    <movie fps="30" />
+    <movie fps="32" />
     <movie width="1500" />
     <movie height="1500" />
     <movie version="3" />

@@ -17,7 +17,7 @@ set INTERPRETER=-interpreter
 ::set SCREEN_SIZE=NexusOne
 ::set SCREEN_SIZE=iPhoneRetina
 ::set SCREEN_SIZE=400x760:400x760
-set SCREEN_SIZE=800x800:800x800
+set SCREEN_SIZE=1080x1920:1080x1920
 :desktop-run
 echo.
 echo Starting AIR Debug Launcher with screen size '%SCREEN_SIZE%'
