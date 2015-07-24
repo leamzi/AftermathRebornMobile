@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:ca98cfcbc930c813f4a05ffa62b52c5e:3af5f027c4a68ad3d3456769795bbd67:1491b7d98068e11eca54d31c0945528a$ -->
+<TextureAtlas imagePath="vehicleEditor.png">
+    <SubTexture name="arrow_moreL" x="482" y="275" width="22" height="52"/>
+    <SubTexture name="arrow_moreR" x="482" y="329" width="22" height="52"/>
+    <SubTexture name="baricon_cryo" x="2" y="346" width="22" height="29"/>
+    <SubTexture name="baricon_gas" x="482" y="244" width="26" height="29"/>
+    <SubTexture name="baricon_speed" x="93" y="346" width="36" height="25"/>
+    <SubTexture name="body01" x="218" y="168" width="168" height="89" frameX="-13" frameY="-28" frameWidth="194" frameHeight="137"/>
+    <SubTexture name="body02" x="2" y="259" width="136" height="79" frameX="-28" frameY="-28" frameWidth="194" frameHeight="137"/>
+    <SubTexture name="body03" x="218" y="45" width="176" height="121" frameX="-9" frameY="-8" frameWidth="194" frameHeight="137"/>
+    <SubTexture name="boton-bishcoin" x="405" y="2" width="93" height="36"/>
+    <SubTexture name="boton-bishcoinS" x="26" y="346" width="65" height="25"/>
+    <SubTexture name="cannon_2" x="2" y="383" width="148" height="106" frameX="-1" frameY="-22" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="cannon_3" x="221" y="259" width="148" height="106" frameX="-1" frameY="-22" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="cannon_basic" x="152" y="383" width="148" height="106" frameX="-1" frameY="-22" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="shield_2" x="405" y="40" width="92" height="100" frameX="-29" frameY="-24" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="shield_3" x="396" y="142" width="92" height="100" frameX="-29" frameY="-24" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="shield_bar" x="131" y="346" width="88" height="21"/>
+    <SubTexture name="shield_basic" x="388" y="244" width="92" height="100" frameX="-29" frameY="-24" frameWidth="150" frameHeight="150"/>
+    <SubTexture name="stats_bar" x="218" y="2" width="185" height="41"/>
+    <SubTexture name="windows" x="2" y="2" width="214" height="203"/>
+</TextureAtlas>

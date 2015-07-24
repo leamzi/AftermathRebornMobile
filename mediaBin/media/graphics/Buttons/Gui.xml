@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:1df2fcc9acb92e98b779d75271287323$ -->
+<TextureAtlas imagePath="Gui.png">
+    <SubTexture name="facebookFriend_Box" x="922" y="2" width="216" height="62"/>
+    <SubTexture name="friendList_bg" x="764" y="84" width="693" height="306"/>
+    <SubTexture name="guiAvatar" x="1200" y="550" width="140" height="147"/>
+    <SubTexture name="guiDeploy" x="1200" y="392" width="248" height="156"/>
+    <SubTexture name="guiFrame01" x="2" y="404" width="558" height="323"/>
+    <SubTexture name="guiFrameOption" x="1077" y="726" width="446" height="246"/>
+    <SubTexture name="guiLabScreen" x="2" y="729" width="526" height="293" frameX="-23" frameY="0" frameWidth="582" frameHeight="321"/>
+    <SubTexture name="guiMap" x="2" y="2" width="760" height="400"/>
+    <SubTexture name="guiMeterBar" x="1342" y="550" width="123" height="110"/>
+    <SubTexture name="guiMissionComplete" x="562" y="404" width="636" height="320"/>
+    <SubTexture name="guiSubframe01" x="1459" y="300" width="558" height="219"/>
+    <SubTexture name="guiSubframe02" x="1525" y="2" width="449" height="80"/>
+    <SubTexture name="guiSubframeTuto" x="530" y="729" width="545" height="271"/>
+    <SubTexture name="meterCount" x="1459" y="54" width="41" height="244"/>
+    <SubTexture name="noImage" x="1459" y="2" width="50" height="50"/>
+    <SubTexture name="selectAll" x="764" y="2" width="156" height="72"/>
+</TextureAtlas>

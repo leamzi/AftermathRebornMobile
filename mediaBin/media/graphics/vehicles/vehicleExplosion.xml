@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:951689928db9d86951f856afa564d349$ -->
+<TextureAtlas imagePath="vehicleExplosion.png">
+    <SubTexture name="explosion01" x="436" y="234" width="74" height="58" frameX="-63" frameY="-95" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion02" x="430" y="412" width="80" height="76" frameX="-59" frameY="-77" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion03" x="406" y="490" width="86" height="82" frameX="-58" frameY="-71" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion04" x="318" y="458" width="86" height="86" frameX="-58" frameY="-66" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion05" x="2" y="464" width="88" height="104" frameX="-55" frameY="-48" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion06" x="108" y="354" width="92" height="110" frameX="-55" frameY="-42" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion07" x="328" y="344" width="100" height="112" frameX="-52" frameY="-40" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion08" x="2" y="350" width="104" height="112" frameX="-49" frameY="-40" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion09" x="338" y="118" width="108" height="114" frameX="-46" frameY="-38" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion10" x="338" y="2" width="108" height="114" frameX="-47" frameY="-38" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion11" x="112" y="124" width="106" height="118" frameX="-48" frameY="-37" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion12" x="228" y="2" width="108" height="120" frameX="-46" frameY="-38" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion13" x="116" y="2" width="110" height="120" frameX="-45" frameY="-40" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion14" x="2" y="2" width="112" height="120" frameX="-44" frameY="-42" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion15" x="2" y="124" width="108" height="112" frameX="-48" frameY="-43" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion16" x="110" y="244" width="106" height="108" frameX="-50" frameY="-43" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion17" x="220" y="124" width="106" height="110" frameX="-50" frameY="-42" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion18" x="2" y="238" width="106" height="110" frameX="-48" frameY="-43" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion19" x="220" y="236" width="106" height="108" frameX="-48" frameY="-44" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion20" x="328" y="234" width="106" height="108" frameX="-47" frameY="-44" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion21" x="218" y="346" width="98" height="112" frameX="-50" frameY="-43" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion22" x="436" y="340" width="68" height="70" frameX="-61" frameY="-43" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion23" x="202" y="460" width="66" height="46" frameX="-59" frameY="-45" frameWidth="200" frameHeight="200"/>
+    <SubTexture name="explosion24" x="436" y="294" width="72" height="44" frameX="-56" frameY="-46" frameWidth="200" frameHeight="200"/>
+	<SubTexture name="explosion25" x="0" y="0" width="1" height="1" frameX="0" frameY="0" frameWidth="1" frameHeight="1"/>
+</TextureAtlas>

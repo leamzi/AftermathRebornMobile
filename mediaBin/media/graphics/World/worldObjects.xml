@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7c123eafc1f6ef7f4d62e966cf22cf18:0b6f825439264c8003732637831b5105:4073371776b99ad62dccfd086ad003bc$ -->
+<TextureAtlas imagePath="worldObjects.png">
+    <SubTexture name="Battery_Green" x="158" y="408" width="94" height="85" frameX="-18" frameY="-8" frameWidth="128" frameHeight="93"/>
+    <SubTexture name="Box" x="747" y="408" width="58" height="62" frameX="-2" frameY="0" frameWidth="64" frameHeight="62"/>
+    <SubTexture name="BoxMiniMap" x="458" y="105" width="16" height="16"/>
+    <SubTexture name="Box_Explosive" x="72" y="570" width="64" height="50" frameX="0" frameY="-11" frameWidth="64" frameHeight="62"/>
+    <SubTexture name="Cgel" x="973" y="89" width="40" height="62" frameX="-11" frameY="0" frameWidth="64" frameHeight="62"/>
+    <SubTexture name="CgelMiniMap" x="458" y="123" width="16" height="16"/>
+    <SubTexture name="CristalMiniMap" x="270" y="238" width="13" height="13"/>
+    <SubTexture name="Crystals_01" x="971" y="153" width="50" height="62" frameX="-5" frameY="-1" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Crystals_02" x="2" y="618" width="62" height="64" frameX="0" frameY="0" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Crystals_03" x="971" y="217" width="50" height="58" frameX="-6" frameY="-4" frameWidth="64" frameHeight="64"/>
+    <SubTexture name="Crystals_Pickup" x="166" y="278" width="96" height="128" frameX="-15" frameY="0" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="Fuel" x="969" y="333" width="38" height="62" frameX="-14" frameY="0" frameWidth="64" frameHeight="62"/>
+    <SubTexture name="FuelMiniMap" x="458" y="141" width="16" height="16"/>
+    <SubTexture name="Hatch" x="2" y="2" width="290" height="160" frameX="-13" frameY="-26" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="HatchMiniMap" x="458" y="159" width="16" height="16"/>
+    <SubTexture name="Hatch_Cl_01" x="158" y="495" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Cl_02" x="615" y="524" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Cl_03" x="807" y="528" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Cl_04" x="807" y="564" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Cl_05" x="899" y="577" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Cl_06" x="250" y="524" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_01" x="250" y="524" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_02" x="899" y="577" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_03" x="807" y="564" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_04" x="807" y="528" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_05" x="615" y="524" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_06" x="158" y="495" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="Hatch_Op_07" x="158" y="531" width="90" height="34" frameX="-112" frameY="-72" frameWidth="320" frameHeight="186"/>
+    <SubTexture name="PowerPlant_Off_Green" x="807" y="414" width="128" height="112" frameX="0" frameY="-14" frameWidth="128" frameHeight="128"/>
+    <SubTexture name="PowerPlant_On_Green" x="615" y="408" width="130" height="114" frameX="-62" frameY="-12" frameWidth="192" frameHeight="128"/>
+    <SubTexture name="Score-Timer" x="294" y="2" width="185" height="62"/>
+    <SubTexture name="barBg" x="969" y="397" width="34" height="164" frameX="-1" frameY="-1" frameWidth="36" frameHeight="166"/>
+    <SubTexture name="barCgel" x="418" y="334" width="30" height="160" frameX="-3" frameY="-3" frameWidth="36" frameHeight="166"/>
+    <SubTexture name="barFuel" x="583" y="398" width="30" height="160" frameX="-3" frameY="-3" frameWidth="36" frameHeight="166"/>
+    <SubTexture name="base" x="899" y="528" width="68" height="47" frameX="-6" frameY="-60" frameWidth="80" frameHeight="107"/>
+    <SubTexture name="baseLight" x="973" y="2" width="46" height="85" frameX="-17" frameY="-5" frameWidth="80" frameHeight="107"/>
+    <SubTexture name="batteryBaseMiniMap" x="458" y="66" width="20" height="18"/>
+    <SubTexture name="batteryMiniMap" x="458" y="86" width="20" height="17"/>
+    <SubTexture name="bishcoins" x="971" y="277" width="50" height="54" frameX="-7" frameY="-2" frameWidth="64" frameHeight="62"/>
+    <SubTexture name="bishcoins_minimap" x="458" y="177" width="16" height="16"/>
+    <SubTexture name="bishcoinsbar" x="166" y="238" width="102" height="38"/>
+    <SubTexture name="highlight" x="342" y="524" width="80" height="93" frameX="0" frameY="0" frameWidth="80" frameHeight="107"/>
+    <SubTexture name="hudCargo_00" x="250" y="560" width="71" height="58"/>
+    <SubTexture name="hudCargo_01" x="158" y="567" width="71" height="58"/>
+    <SubTexture name="hudCrystals" x="747" y="472" width="58" height="48"/>
+    <SubTexture name="hudTrophies" x="747" y="522" width="58" height="48"/>
+    <SubTexture name="minimapBg" x="450" y="398" width="131" height="76"/>
+    <SubTexture name="minimapBgFrame" x="450" y="476" width="131" height="76"/>
+    <SubTexture name="portal_01" x="2" y="570" width="68" height="46" frameX="-45" frameY="-122" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_02" x="166" y="164" width="126" height="72" frameX="-14" frameY="-108" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_03" x="2" y="288" width="156" height="90" frameX="0" frameY="-96" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_04" x="285" y="242" width="158" height="90" frameX="-4" frameY="-96" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_05" x="809" y="2" width="162" height="94" frameX="0" frameY="-95" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_06" x="645" y="2" width="162" height="110" frameX="0" frameY="-86" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_07" x="635" y="306" width="158" height="100" frameX="-4" frameY="-96" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_08" x="807" y="296" width="160" height="116" frameX="-1" frameY="-80" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_09" x="2" y="164" width="162" height="122" frameX="0" frameY="-74" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_10" x="264" y="334" width="152" height="152" frameX="-3" frameY="-44" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_11" x="294" y="66" width="162" height="174" frameX="0" frameY="-22" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_12" x="645" y="114" width="160" height="190" frameX="-2" frameY="-6" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_13" x="481" y="2" width="162" height="196"/>
+    <SubTexture name="portal_14" x="809" y="98" width="160" height="196" frameX="-1" frameY="0" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_15" x="475" y="200" width="158" height="196" frameX="-1" frameY="0" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="portal_16" x="2" y="380" width="154" height="188" frameX="-2" frameY="0" frameWidth="162" frameHeight="196"/>
+    <SubTexture name="timerHud" x="254" y="488" width="136" height="34"/>
+    <SubTexture name="vehicleMiniMap" x="458" y="195" width="15" height="15"/>
+</TextureAtlas>

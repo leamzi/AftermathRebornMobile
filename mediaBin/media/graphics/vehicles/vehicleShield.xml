@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:cd479d4599e12f2af4a8b3c770d15271$ -->
+<TextureAtlas imagePath="vehicleShield.png">
+    <SubTexture name="Brillo_01" x="164" y="160" width="72" height="130" frameX="-82" frameY="-37" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_02" x="80" y="326" width="70" height="152" frameX="-81" frameY="-37" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_03" x="146" y="2" width="72" height="156" frameX="-98" frameY="-36" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_04" x="2" y="2" width="76" height="162" frameX="-101" frameY="-30" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_05" x="80" y="2" width="64" height="158" frameX="-126" frameY="-37" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_06" x="152" y="326" width="86" height="150" frameX="-142" frameY="-47" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_07" x="2" y="326" width="76" height="154" frameX="-155" frameY="-41" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_08" x="220" y="2" width="50" height="116" frameX="-190" frameY="-66" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="Brillo_09" x="238" y="120" width="38" height="106" frameX="-202" frameY="-76" frameWidth="320" frameHeight="240"/>
+    <SubTexture name="baseShield" x="2" y="166" width="160" height="158" frameX="-80" frameY="-37" frameWidth="320" frameHeight="240"/>
+</TextureAtlas>

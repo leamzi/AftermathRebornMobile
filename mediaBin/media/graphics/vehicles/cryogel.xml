@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://texturepacker.com-->
+<!-- $TexturePacker:SmartUpdate:74c338708f21c5a72cfa90912a6ac65c$ -->
+<TextureAtlas imagePath="cryogel.png">
+    <SubTexture name="water_01" x="44" y="34" width="14" height="14" frameX="-2" frameY="-3" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="water_02" x="46" y="2" width="16" height="12" frameX="-1" frameY="-3" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="water_03" x="46" y="16" width="14" height="16" frameX="-3" frameY="-2" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="water_04" x="2" y="50" width="14" height="12" frameX="-3" frameY="-3" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="water_05" x="24" y="20" width="18" height="16" frameX="-1" frameY="-1" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="water_06" x="24" y="2" width="20" height="16" frameX="0" frameY="-2" frameWidth="20" frameHeight="20"/>
+    <SubTexture name="water_07" x="2" y="2" width="20" height="20"/>
+</TextureAtlas>

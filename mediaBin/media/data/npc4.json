@@ -1,0 +1,180 @@
+{
+	"lootBonusTime": 20,
+	"aoeRange": 3,
+	"timeSpawn":15,
+	"enemigoA":{
+		  "hp": 100,
+		  "damage": 1,
+		  "velocity": 0.5,
+		  "chaseVelocity": 2,
+		  "alertVelocity": 5,
+		  "detectRange": 300,
+		  "attackRange": 250,
+		  "alertRange": 600,
+		  "timeDecision": 1.5,
+		  "checkChase": 2,
+		  "checkAlert": 3,
+		  "animations": {
+			"name": "enemigoA",
+			"atlas": "crystalSpawn",
+			"offset": 0,
+			"totalVistas": 1,
+			"pref": [
+			  {
+				"name": "_vista_0_",
+				"fps": 3
+			  },
+			  {
+				"name": "_spawn_",
+				"fps": 6
+			  }
+			]
+		  },
+		  "bullet": {
+			"velocity": 5,
+			"damage": 0.1,
+			"timeShoot": 100,
+			"lifeTime": 3
+		  },
+		  "maxSpawn":3
+	},
+	"enemigoB":{
+		  "hp": 200,
+		  "damage": 1,
+		  "velocity": 0.5,
+		  "slimeVelocity": 10,
+		  "alertVelocity": 5,
+		  "detectRange": 150,
+		  "attackRange": 250,
+		  "alertRange": 600,
+		  "timeDecision": 1.5,
+		  "checkSlime": 2,
+		  "checkAlert": 3,
+		  "animations": {
+			"name": "enemigoB",
+			"atlas": "crystalSpawn",
+			"offset": 0,
+			"totalVistas": 1,
+			"pref": [
+			  {
+				"name": "_vista_0_",
+				"fps": 3
+			  },
+			  {
+				"name": "_spawn_",
+				"fps": 6
+			  }
+			]
+		  },
+		  "bullet": {
+			"velocity": 5,
+			"damage": 0.1,
+			"timeShoot": 100,
+			"lifeTime": 3
+		  },
+		  
+		 "maxSpawn":7
+	},
+	"enemigoC":{
+		  "hp": 200,
+		  "damage": 0.3,
+		  "velocity": 0.5,
+		  "slimeVelocity": 10,
+		  "alertVelocity": 5,
+		  "detectRange": 150,
+		  "attackRange": 250,
+		  "alertRange": 600,
+		  "timeDecision": 1.5,
+		  "checkSlime": 2,
+		  "checkAlert": 3,
+		  "checkStun":2,
+		  "animations": {
+			"name": "enemigoC",
+			"atlas": "crystalSpawn",
+			"offset": 0,
+			"totalVistas": 1,
+			"pref": [
+			  {
+				"name": "_vista_0_",
+				"fps": 3
+			  },
+			  {
+				"name": "_spawn_",
+				"fps": 6
+			  }
+			]
+		  },
+		  "bullet": {
+			"velocity": 5,
+			"damage": 0.1,
+			"timeShoot": 100,
+			"lifeTime": 3
+		  },
+		  
+		  "maxSpawn":0
+	},
+	"enemigoD":{
+		  "hp": 100,
+		  "damage": 0.1,
+		  "velocity": 2.0,
+		  "dashVelocity": 4,
+		  "detectRange": 300,
+		  "timeDecision": 1.5,
+		  "checkDash": 3,
+		  "checkRest": 2,
+		  "amplitude": 50,
+		  "waveLength": 150,
+		  "animations": {
+			"name": "enemigoD",
+			"atlas": "crystalSpawn",
+			"offset": 0,
+			"totalVistas": 1,
+			"pref": [
+			  {
+				"name": "_vista_0_",
+				"fps": 3
+			  },
+			  {
+				"name": "_spawn_",
+				"fps": 6
+			  }
+			]
+		  },
+		  "bullet": {
+			"velocity": 5,
+			"damage": 0.1,
+			"timeShoot": 100,
+			"lifeTime": 3
+		  },
+		  "maxSpawn":1
+	},
+	"lootBonus":{
+		  "hp": 400,
+		  "damage": 0.1,
+		  "velocity": 3.0,
+		  "dashVelocity": 4,
+		  "detectRange": 300,
+		  "timeDecision": 1.5,
+		  "checkDash": 3,
+		  "checkRest": 2,
+		  "loot":50,
+		  "animations": {
+			"name": "lootBonus",
+			"atlas": "crystalSpawn",
+			"offset": 0,
+			"totalVistas": 1,
+			"pref": [
+			  {
+				"name": "_vista_0_",
+				"fps": 3
+			  },
+			  {
+				"name": "_spawn_",
+				"fps": 6
+			  }
+			]
+		  },
+		  "maxSpawn":0
+	}
+	
+}
