@@ -1,11 +1,11 @@
 :user_configuration
 
 :: Path to Flex SDK
-set FLEX_SDK=C:\Users\Leamzi\AppData\Local\FlashDevelop\Apps\flexsdk\4.6.0
+set FLEX_SDK=C:\Users\BAT\AppData\Local\FlashDevelop\Apps\flexsdk\4.6.0
 set AUTO_INSTALL_IOS=yes
 
 :: Path to Android SDK
-set ANDROID_SDK=C:\Users\Leamzi\AppData\Local\Android\android-sdk
+set ANDROID_SDK=C:\Program Files (x86)\Android\android-sdk
 
 
 :validation

@@ -219,7 +219,7 @@ package com.tucomoyo.aftermath.Clases
 		
 		public function createMiniMap():void {
 			
-			miniWorldMap = new MiniMap(tilemap.width, tilemap.height,texturesScene);
+			miniWorldMap = new MiniMap(tilemap.width, tilemap.height,texturesScene,globalResources);
 			
 		}
 		

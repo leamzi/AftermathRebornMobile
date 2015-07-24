@@ -1317,7 +1317,7 @@ package com.tucomoyo.aftermath.Screens
             
             var touch:Touch = e.getTouch(stage);
             if(touch==null)return;
-            var pos:Point = new Point(touch.globalX,touch.globalY);//touch.getLocation(stage);
+            var pos:Point = new Point((touch.globalX*760/globalResources.stageWidth),(touch.globalY*400/globalResources.stageHeigth));//touch.getLocation(stage);
             var rec:Rectangle = new Rectangle(680, 333, 80, 68);
 
             mouseX=pos.x;

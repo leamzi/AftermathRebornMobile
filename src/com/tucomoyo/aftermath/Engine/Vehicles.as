@@ -374,7 +374,8 @@ package com.tucomoyo.aftermath.Engine
 		
 		public function updateTarget(targetX:int, targetY:int):void {
 			//Direccion del target de disparo
-			 var mousePoint:Point = globalToLocal(new Point(targetX, targetY));
+			 var mousePoint:Point = globalToLocal(new Point(targetX*globalResources.stageWidth/760, targetY*globalResources.stageHeigth/400));
+			 
 			 target01.x = mousePoint.x;
 			 target01.y = mousePoint.y;
 			 target02.x = mousePoint.x;

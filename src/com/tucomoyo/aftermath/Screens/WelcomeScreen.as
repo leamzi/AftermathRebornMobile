@@ -78,7 +78,7 @@ package com.tucomoyo.aftermath.Screens
 
 			startText = new TextField(400, 100, "", globalResources.fontName, 32, 0xFFFFFF);
 			startText.text=globalResources.textos[globalResources.idioma].Screens.Welcome.start
-			startText.x = (globalResources.stageWidth * 0.5) - (startText.width * 0.5);
+			startText.x = (370) - (startText.width * 0.5);
 			startText.y = 294;
 			startText.alpha = 0;
 			startText.hAlign = "center";

@@ -383,12 +383,12 @@ package com.tucomoyo.aftermath.Screens
 			slideMenu.useHandCursor = true;
 			slideMenu.addEventListener(TouchEvent.TOUCH, swipeAnimation);
 			this.addChild(slideMenu);
-			
+			/*
 			var friendList:FacebookFriendList = new FacebookFriendList(globalResources, texturesScene, connect);
 			friendList.x = 10;
 			friendList.y = 10;
 			addChild(friendList);
-			
+			*/
 			showButtons();
 			
 			createComicList();

@@ -1,6 +1,7 @@
 package com.tucomoyo.aftermath.Clases 
 {
 	import com.tucomoyo.aftermath.Engine.AssetManager;
+	import com.tucomoyo.aftermath.GlobalResources;
 	import flash.geom.Point;
 	import flash.geom.Rectangle;
 	import starling.core.RenderSupport;
@@ -27,13 +28,14 @@ package com.tucomoyo.aftermath.Clases
 		public var hatch:MiniMapObjetos;
 		public var bonus:MiniMapObjetos;
 		public var hatchPos:Point = new Point();
+		public var resources:GlobalResources;
 		
-		public function MiniMap(_width:int, _height:int, texturesScene:AssetManager) 
+		public function MiniMap(_width:int, _height:int, texturesScene:AssetManager,_resources:GlobalResources) 
 		{
 			super();
 			
 			this.touchable = false;
-			
+			this.resources = _resources;
 			this.x = 620;
 			this.y = 10;
 			
@@ -109,13 +111,15 @@ package com.tucomoyo.aftermath.Clases
 			vehicleMini = null;
 			hatch = null;
 			fondo = null;
+			resources = null;
 			super.dispose();
 		}
 		
 		public override function render(support:RenderSupport, alpha:Number):void
 		{
+			
 			support.finishQuadBatch();
-			Starling.context.setScissorRectangle(new Rectangle(623, 13, 125, 70));
+			Starling.context.setScissorRectangle(new Rectangle(623 * resources.stageWidth / 760 , 13* resources.stageHeigth / 400, 125* resources.stageWidth / 760, 70* resources.stageHeigth / 400));
 			super.render(support,alpha);
 			support.finishQuadBatch()
 			Starling.context.setScissorRectangle(null);
